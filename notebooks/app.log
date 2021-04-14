@@ -1,0 +1,238 @@
+2021-04-14 09:46:03,737 loading vocabulary file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model\vocab.txt
+2021-04-14 09:46:03,802 loading archive file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model from cache at D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model
+2021-04-14 09:46:03,807 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+2021-04-14 09:46:05,212 Initialization Done !!
+2021-04-14 09:46:05,315 Summing last 4 layers for each token
+2021-04-14 09:46:05,316 ['breast', 'cancers', 'with', 'her2', 'amplification', 'have', 'a', 'higher', 'risk', 'of', 'cns', 'metastasis', 'and', 'poorer', 'prognosis', '.']
+2021-04-14 09:46:05,316 Shape of Word Embeddings = 16
+2021-04-14 09:46:05,316 Taking last layer embedding of each word.
+2021-04-14 09:46:05,316 Mean of all words for sentence embedding.
+2021-04-14 09:46:05,388 Shape of Sentence Embeddings = 768
+2021-04-14 09:46:30,991 loading vocabulary file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model\vocab.txt
+2021-04-14 09:46:31,022 loading archive file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model from cache at D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model
+2021-04-14 09:46:31,023 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+2021-04-14 09:46:43,252 Initialization Done !!
+2021-04-14 09:46:43,362 Summing last 4 layers for each token
+2021-04-14 09:46:43,363 ['breast', 'cancers', 'with', 'her2', 'amplification', 'have', 'a', 'higher', 'risk', 'of', 'cns', 'metastasis', 'and', 'poorer', 'prognosis', '.']
+2021-04-14 09:46:43,363 Shape of Word Embeddings = 16
+2021-04-14 09:46:43,364 Taking last layer embedding of each word.
+2021-04-14 09:46:43,364 Mean of all words for sentence embedding.
+2021-04-14 09:46:43,436 Shape of Sentence Embeddings = 768
+2021-04-14 09:46:43,437 Taking last layer embedding of each word.
+2021-04-14 09:46:43,437 Mean of all words for sentence embedding.
+2021-04-14 09:46:43,512 Shape of Sentence Embeddings = 768
+2021-04-14 09:46:43,512 Taking last layer embedding of each word.
+2021-04-14 09:46:43,512 Mean of all words for sentence embedding.
+2021-04-14 09:46:43,587 Shape of Sentence Embeddings = 768
+2021-04-14 09:48:31,541 loading vocabulary file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model\vocab.txt
+2021-04-14 09:48:31,557 loading archive file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model from cache at D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model
+2021-04-14 09:48:31,557 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+2021-04-14 09:48:35,142 Initialization Done !!
+2021-04-14 09:48:35,251 Summing last 4 layers for each token
+2021-04-14 09:48:35,251 ['breast', 'cancers', 'with', 'her2', 'amplification', 'have', 'a', 'higher', 'risk', 'of', 'cns', 'metastasis', 'and', 'poorer', 'prognosis', '.']
+2021-04-14 09:48:35,251 Shape of Word Embeddings = 16
+2021-04-14 09:48:35,251 Taking last layer embedding of each word.
+2021-04-14 09:48:35,251 Mean of all words for sentence embedding.
+2021-04-14 09:48:35,313 Shape of Sentence Embeddings = 768
+2021-04-14 09:48:35,321 Taking last layer embedding of each word.
+2021-04-14 09:48:35,321 Mean of all words for sentence embedding.
+2021-04-14 09:48:35,384 Shape of Sentence Embeddings = 768
+2021-04-14 09:48:35,384 Taking last layer embedding of each word.
+2021-04-14 09:48:35,384 Mean of all words for sentence embedding.
+2021-04-14 09:48:35,462 Shape of Sentence Embeddings = 768
+2021-04-14 09:48:49,388 loading vocabulary file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model\vocab.txt
+2021-04-14 09:48:49,417 loading archive file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model from cache at D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model
+2021-04-14 09:48:49,418 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+2021-04-14 09:48:50,674 Initialization Done !!
+2021-04-14 09:48:50,780 Summing last 4 layers for each token
+2021-04-14 09:48:50,780 ['breast', 'cancers', 'with', 'her2', 'amplification', 'have', 'a', 'higher', 'risk', 'of', 'cns', 'metastasis', 'and', 'poorer', 'prognosis', '.']
+2021-04-14 09:48:50,780 Shape of Word Embeddings = 16
+2021-04-14 09:48:50,781 Taking last layer embedding of each word.
+2021-04-14 09:48:50,781 Mean of all words for sentence embedding.
+2021-04-14 09:48:50,851 Shape of Sentence Embeddings = 768
+2021-04-14 09:48:50,852 Taking last layer embedding of each word.
+2021-04-14 09:48:50,853 Mean of all words for sentence embedding.
+2021-04-14 09:48:50,926 Shape of Sentence Embeddings = 768
+2021-04-14 09:48:50,927 Taking last layer embedding of each word.
+2021-04-14 09:48:50,927 Mean of all words for sentence embedding.
+2021-04-14 09:48:50,999 Shape of Sentence Embeddings = 768
+2021-04-14 09:50:26,224 loading vocabulary file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model\vocab.txt
+2021-04-14 09:50:26,281 loading archive file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model from cache at D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model
+2021-04-14 09:50:26,281 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+2021-04-14 09:50:27,625 Initialization Done !!
+2021-04-14 09:50:27,728 Summing last 4 layers for each token
+2021-04-14 09:50:27,729 ['breast', 'cancers', 'with', 'her2', 'amplification', 'have', 'a', 'higher', 'risk', 'of', 'cns', 'metastasis', 'and', 'poorer', 'prognosis', '.']
+2021-04-14 09:50:27,729 Shape of Word Embeddings = 16
+2021-04-14 09:50:27,729 Taking last layer embedding of each word.
+2021-04-14 09:50:27,729 Mean of all words for sentence embedding.
+2021-04-14 09:50:27,818 Shape of Sentence Embeddings = 768
+2021-04-14 09:50:27,819 Taking last layer embedding of each word.
+2021-04-14 09:50:27,819 Mean of all words for sentence embedding.
+2021-04-14 09:50:27,906 Shape of Sentence Embeddings = 768
+2021-04-14 09:50:27,906 Taking last layer embedding of each word.
+2021-04-14 09:50:27,906 Mean of all words for sentence embedding.
+2021-04-14 09:50:27,977 Shape of Sentence Embeddings = 768
+2021-04-14 09:54:48,000 loading vocabulary file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model\vocab.txt
+2021-04-14 09:54:48,029 loading archive file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model from cache at D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model
+2021-04-14 09:54:48,030 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+2021-04-14 09:55:00,359 Initialization Done !!
+2021-04-14 09:55:00,466 Summing last 4 layers for each token
+2021-04-14 09:55:00,466 ['breast', 'cancers', 'with', 'her2', 'amplification', 'have', 'a', 'higher', 'risk', 'of', 'cns', 'metastasis', 'and', 'poorer', 'prognosis', '.']
+2021-04-14 09:55:00,466 Shape of Word Embeddings = 16
+2021-04-14 09:55:00,466 Taking last layer embedding of each word.
+2021-04-14 09:55:00,466 Mean of all words for sentence embedding.
+2021-04-14 09:55:00,533 Shape of Sentence Embeddings = 768
+2021-04-14 09:55:00,533 Taking last layer embedding of each word.
+2021-04-14 09:55:00,533 Mean of all words for sentence embedding.
+2021-04-14 09:55:00,597 Shape of Sentence Embeddings = 768
+2021-04-14 09:55:00,597 Taking last layer embedding of each word.
+2021-04-14 09:55:00,597 Mean of all words for sentence embedding.
+2021-04-14 09:55:00,666 Shape of Sentence Embeddings = 768
+2021-04-14 10:01:30,140 loading vocabulary file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model\vocab.txt
+2021-04-14 10:01:30,192 loading archive file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model from cache at D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model
+2021-04-14 10:01:30,192 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+2021-04-14 10:01:33,747 Initialization Done !!
+2021-04-14 10:01:33,846 Summing last 4 layers for each token
+2021-04-14 10:01:33,847 ['breast', 'cancers', 'with', 'her2', 'amplification', 'have', 'a', 'higher', 'risk', 'of', 'cns', 'metastasis', 'and', 'poorer', 'prognosis', '.']
+2021-04-14 10:01:33,847 Shape of Word Embeddings = 16
+2021-04-14 10:01:33,847 Taking last layer embedding of each word.
+2021-04-14 10:01:33,847 Mean of all words for sentence embedding.
+2021-04-14 10:01:33,914 Shape of Sentence Embeddings = 768
+2021-04-14 10:01:33,915 Taking last layer embedding of each word.
+2021-04-14 10:01:33,915 Mean of all words for sentence embedding.
+2021-04-14 10:01:33,986 Shape of Sentence Embeddings = 768
+2021-04-14 10:01:33,987 Taking last layer embedding of each word.
+2021-04-14 10:01:33,987 Mean of all words for sentence embedding.
+2021-04-14 10:01:34,054 Shape of Sentence Embeddings = 768
+2021-04-14 10:01:34,055 Taking last layer embedding of each word.
+2021-04-14 10:01:34,055 Mean of all words for sentence embedding.
+2021-04-14 10:01:34,115 Shape of Sentence Embeddings = 768
+2021-04-14 10:17:03,357 loading vocabulary file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model\vocab.txt
+2021-04-14 10:17:03,418 loading archive file D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model from cache at D:\PhD\CodeProjects\NLP\Code\NaturalLanguageProcessingTutorials\notebooks\biobert_v1.1_pubmed_pytorch_model
+2021-04-14 10:17:03,418 Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}
+
+2021-04-14 10:17:06,124 Initialization Done !!
+2021-04-14 10:17:06,214 Summing last 4 layers for each token
+2021-04-14 10:17:06,215 ['breast', 'cancers', 'with', 'her2', 'amplification', 'have', 'a', 'higher', 'risk', 'of', 'cns', 'metastasis', 'and', 'poorer', 'prognosis', '.']
+2021-04-14 10:17:06,215 Shape of Word Embeddings = 16
+2021-04-14 10:17:06,215 Taking last layer embedding of each word.
+2021-04-14 10:17:06,215 Mean of all words for sentence embedding.
+2021-04-14 10:17:06,297 Shape of Sentence Embeddings = 768
+2021-04-14 10:17:06,298 Taking last layer embedding of each word.
+2021-04-14 10:17:06,298 Mean of all words for sentence embedding.
+2021-04-14 10:17:06,381 Shape of Sentence Embeddings = 768
+2021-04-14 10:17:06,381 Taking last layer embedding of each word.
+2021-04-14 10:17:06,381 Mean of all words for sentence embedding.
+2021-04-14 10:17:06,450 Shape of Sentence Embeddings = 768
+2021-04-14 10:17:06,450 Taking last layer embedding of each word.
+2021-04-14 10:17:06,450 Mean of all words for sentence embedding.
+2021-04-14 10:17:06,521 Shape of Sentence Embeddings = 768
+2021-04-14 10:17:06,522 Taking last layer embedding of each word.
+2021-04-14 10:17:06,522 Mean of all words for sentence embedding.
+2021-04-14 10:17:06,588 Shape of Sentence Embeddings = 768
+2021-04-14 10:17:06,589 Taking last layer embedding of each word.
+2021-04-14 10:17:06,589 Mean of all words for sentence embedding.
+2021-04-14 10:17:06,665 Shape of Sentence Embeddings = 768
